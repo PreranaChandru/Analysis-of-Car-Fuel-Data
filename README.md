@@ -4,9 +4,9 @@ Files include Python Notebook with completed code and supporting CSV files
 
 ### Project Objectives and Overview
 
-Explore Fuel Economy data of 2008 and 2018.
-Perform data wrangling to unify the format of data from the two datasets.
-Compute descriptive statistics in Python, pandas and numPy to answer the questions posed about the data
+* Explore Fuel Economy data of 2008 and 2018.
+* Perform data wrangling to unify the format of data from the two datasets.
+* Compute descriptive statistics in Python, pandas and numPy to answer the questions posed about the data
 
 ### Questions answered:
 
